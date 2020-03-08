@@ -1,3 +1,6 @@
 git rebase --abort 代码回退
 1.复制文件或者文件夹到 mygit
 2. git add 文件名（传文件夹的话要进入到文件夹中）
+3. git commit -m "提示信息"
+4 git push origin master 提交
+(中间还有回退，等等)
