@@ -1,1 +1,2 @@
 git rebase --abort 代码回退
+1.复制文件或者文件夹到 mygit
